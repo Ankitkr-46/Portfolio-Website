@@ -6,9 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          Results-driven technology entrepreneur specialising in AI-powered automation, intelligent workflow design, and WordPress web solutions. I help businesses eliminate time-consuming manual work by building smart, automated systems that save time and reduce costs.
         </p>
       </div>
     </div>
