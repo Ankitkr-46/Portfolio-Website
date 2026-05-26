@@ -1,1 +1,1 @@
-declare module 'gsap/SplitText';
+declare module 'split-type';
